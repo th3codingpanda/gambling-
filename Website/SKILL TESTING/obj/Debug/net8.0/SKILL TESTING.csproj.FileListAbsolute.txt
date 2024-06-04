@@ -1,0 +1,14 @@
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.AssemblyInfoInputs.cache
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.AssemblyInfo.cs
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.csproj.CoreCompileInputs.cache
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\bin\Debug\net8.0\SKILL TESTING.exe
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\bin\Debug\net8.0\SKILL TESTING.deps.json
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\bin\Debug\net8.0\SKILL TESTING.runtimeconfig.json
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\bin\Debug\net8.0\SKILL TESTING.dll
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\bin\Debug\net8.0\SKILL TESTING.pdb
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.dll
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\refint\SKILL TESTING.dll
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.pdb
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\SKILL TESTING.genruntimeconfig.cache
+C:\Users\rafwoud\Documents\Documenten\CODING\SKILL TESTING\obj\Debug\net8.0\ref\SKILL TESTING.dll
